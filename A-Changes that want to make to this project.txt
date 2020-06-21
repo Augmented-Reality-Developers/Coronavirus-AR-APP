@@ -6,8 +6,8 @@ statistics of Coronavirus patients in reality.
 
 ( What I want to do is to scrape the web data using APIs in 
   Unity so that I can use 
-  that data to display 
-  it inside the APP whenever I use this AR APP.  
+  that data to display this data
+  inside the APP whenever I use this AR APP.  
 
 )
 
