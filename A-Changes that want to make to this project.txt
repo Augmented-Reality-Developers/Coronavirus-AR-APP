@@ -1,0 +1,24 @@
+I have made an Augmented Reality(AR) APP using Unity Engine and Vuforia 
+AR SDK to show the working of Coronavirus in reality. This APP 
+augments the working model of Coronavirus in reality. 
+But I want to improve this APP so that it can augment the real-time 
+statistics of Coronavirus patients in reality. 
+
+( What I want to do is to scrape the web data using APIs in 
+  Unity so that I can use 
+  that data to display 
+  it inside the APP whenever I use this AR APP.  
+
+)
+
+But I am new to Web Development, I only know upto CSS, have to learn JS.
+So, if anyone know's scraping web data in Unity using C#, please 
+contribute for this project. 
+
+
+My project can be found on this repos:-
+
+https://github.com/gbhanuteja23/Coronavirus_AR_APP
+
+
+Is anybody willing to contribute for this project??
